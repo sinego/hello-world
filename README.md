@@ -1,2 +1,2 @@
 # hello-world
-intro
+Fortune favors the bold.
